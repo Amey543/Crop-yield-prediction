@@ -21,7 +21,6 @@ The following regression models were evaluated on the dataset. Performance metri
 
 | Model                  | MSE              | R² Score       |
 |------------------------|------------------|----------------|
-| Linear Regression      | –                | –              |
 | Lasso                  | 1,822,127,464.77 | 0.7486         |
 | Ridge                  | 1,822,594,694.32 | 0.7485         |
 | KNeighbors Regressor   | 117,396,514.97   | 0.9838         |
